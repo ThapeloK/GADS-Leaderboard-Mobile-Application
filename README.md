@@ -3,4 +3,4 @@
 
 ### Application Screentshot - Preview
 
-![Alt text](https://github.com/ThapeloK/GADS-Leaderboard-Mobile-Application/screenshots/All Screens.png)
+![Alt text](https://github.com/ThapeloK/GADS-Leaderboard-Mobile-Application/screenshots/All%Screens.png)
